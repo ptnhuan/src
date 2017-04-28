@@ -183,6 +183,7 @@ return [
         LaravelAcl\Authentication\AuthenticationServiceProvider::class,
         Unisharp\Laravelfilemanager\LaravelFilemanagerServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
+        Foostart\Front\FrontServiceProvider::class,
 
     ],
 

@@ -1,0 +1,11 @@
+{
+    "name": "foostart/front",
+    "description": "Create overview sample can intergrate other project",
+    "authors": [
+        {
+            "name": "front",
+        }
+    ],
+    "require": {
+    }
+}
