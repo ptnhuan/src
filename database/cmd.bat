@@ -1,0 +1,1 @@
+mysqldump -uroot -p foofit > foofit.sql
