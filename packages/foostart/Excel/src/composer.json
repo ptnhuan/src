@@ -1,0 +1,12 @@
+{
+    "name": "foostart/excel",
+    "description": "import, export excel",
+    "license": "DuongTM",
+    "authors": [
+        {
+            "name": "DuongTM",
+            "email": "minhduong.zaro@gmail.com"
+        }
+    ],
+    "require": {}
+}
